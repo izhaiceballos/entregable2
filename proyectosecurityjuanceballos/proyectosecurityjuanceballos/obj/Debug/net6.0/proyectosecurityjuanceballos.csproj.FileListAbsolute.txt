@@ -1,0 +1,14 @@
+C:\Users\JCEBALLOS\source\repos\proyectosecurityjuanceballos\proyectosecurityjuanceballos\bin\Debug\net6.0\proyectosecurityjuanceballos.exe
+C:\Users\JCEBALLOS\source\repos\proyectosecurityjuanceballos\proyectosecurityjuanceballos\bin\Debug\net6.0\proyectosecurityjuanceballos.deps.json
+C:\Users\JCEBALLOS\source\repos\proyectosecurityjuanceballos\proyectosecurityjuanceballos\bin\Debug\net6.0\proyectosecurityjuanceballos.runtimeconfig.json
+C:\Users\JCEBALLOS\source\repos\proyectosecurityjuanceballos\proyectosecurityjuanceballos\bin\Debug\net6.0\proyectosecurityjuanceballos.dll
+C:\Users\JCEBALLOS\source\repos\proyectosecurityjuanceballos\proyectosecurityjuanceballos\bin\Debug\net6.0\proyectosecurityjuanceballos.pdb
+C:\Users\JCEBALLOS\source\repos\proyectosecurityjuanceballos\proyectosecurityjuanceballos\obj\Debug\net6.0\proyectosecurityjuanceballos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JCEBALLOS\source\repos\proyectosecurityjuanceballos\proyectosecurityjuanceballos\obj\Debug\net6.0\proyectosecurityjuanceballos.AssemblyInfoInputs.cache
+C:\Users\JCEBALLOS\source\repos\proyectosecurityjuanceballos\proyectosecurityjuanceballos\obj\Debug\net6.0\proyectosecurityjuanceballos.AssemblyInfo.cs
+C:\Users\JCEBALLOS\source\repos\proyectosecurityjuanceballos\proyectosecurityjuanceballos\obj\Debug\net6.0\proyectosecurityjuanceballos.csproj.CoreCompileInputs.cache
+C:\Users\JCEBALLOS\source\repos\proyectosecurityjuanceballos\proyectosecurityjuanceballos\obj\Debug\net6.0\proyectosecurityjuanceballos.dll
+C:\Users\JCEBALLOS\source\repos\proyectosecurityjuanceballos\proyectosecurityjuanceballos\obj\Debug\net6.0\refint\proyectosecurityjuanceballos.dll
+C:\Users\JCEBALLOS\source\repos\proyectosecurityjuanceballos\proyectosecurityjuanceballos\obj\Debug\net6.0\proyectosecurityjuanceballos.pdb
+C:\Users\JCEBALLOS\source\repos\proyectosecurityjuanceballos\proyectosecurityjuanceballos\obj\Debug\net6.0\proyectosecurityjuanceballos.genruntimeconfig.cache
+C:\Users\JCEBALLOS\source\repos\proyectosecurityjuanceballos\proyectosecurityjuanceballos\obj\Debug\net6.0\ref\proyectosecurityjuanceballos.dll
